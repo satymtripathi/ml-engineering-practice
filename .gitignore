@@ -1,4 +1,13 @@
+# virtual environment
 ml/
+
+# python cache
 __pycache__/
 *.pyc
+
+# environment variables
 .env
+
+# datasets (auto-downloads)
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
